@@ -31,7 +31,7 @@ You may need mannully define the data path first.
 
  Test a model on dn348 or dnwild dataset by 
   ```bash
-python test.py --mode all --resume 'model_path' --gpu 1 --dataset sysu
+python test.py --mode all --resume 'model_path' --gpu 1 --dataset dn348
 ```
   - `--dataset`: which dataset "dn348" or "dnwild".
   

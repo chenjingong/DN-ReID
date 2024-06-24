@@ -7,6 +7,7 @@ Paper:CVPR2024
 
  ### Dataset download
  We put the path in the data_path/data_path.txt
+And if you want to know how the dataset was collected and its description in the data_path/Dataset.pdf
 
  ### Training
 

@@ -1,5 +1,5 @@
 # Day-Night Cross-domain Vehicle Re-identification
-Authors:Hongchao Li, Jingong Chen, Aihua Zheng, Yong Wu*, Yonglong Luo
+Authors: Hongchao Li, Jingong Chen, Aihua Zheng, Yong Wu*, Yonglong Luo
 
 [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Day-Night_Cross-domain_Vehicle_Re-identification_CVPR_2024_paper.pdf):CVPR2024
 

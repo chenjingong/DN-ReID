@@ -43,10 +43,11 @@ python test.py --mode all --resume 'model_path' --gpu 1 --dataset dn348
 ### Citation
 If you use the dataset, please cite the following paper:
 ```
-@inproceedings{Li_2024_CVPR,
-  title={Day-Night Cross-Domain Vehicle Re-Identification},
-  author={Li, Hongchao and Chen, Jingong and Zheng, Aihua and Wu, Yong and Luo, YongLong},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+@inproceedings{li2024day,
+  title={Day-Night Cross-domain Vehicle Re-identification},
+  author={Li, Hongchao and Chen, Jingong and Zheng, Aihua and Wu, Yong and Luo, Yonglong},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12626--12635},
   year={2024}
 }
 ```

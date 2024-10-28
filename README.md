@@ -44,8 +44,9 @@ python test.py --mode all --resume 'model_path' --gpu 1 --dataset dn348
   - `--gpu`:  which gpu to run.
 
 ###QQ群
-有希望交流的朋友可以加QQ群，我们相互进步学习！！！
-![image](https://github.com/chenjingong/DN-ReID/blob/main/img/QQ.jpg)
+
+QQ群号：721495099，有希望交流的朋友可以加QQ群，我们相互进步学习！！！
+
 
 ### Citation
 If you use the dataset, please cite the following paper:

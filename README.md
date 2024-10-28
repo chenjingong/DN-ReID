@@ -8,6 +8,7 @@ Authors: Hongchao Li, Jingong Chen, Aihua Zheng, Yong Wu*, Yonglong Luo
 
 ![image](https://github.com/chenjingong/DN-ReID/blob/main/img/Poster.png)
 
+
  ### Dataset download
  We put the path in the data_path/data_path.txt
  
@@ -41,6 +42,10 @@ python test.py --mode all --resume 'model_path' --gpu 1 --dataset dn348
   - `--resume`: the saved model path.
   
   - `--gpu`:  which gpu to run.
+
+###QQ群
+有希望交流的朋友可以加QQ群，我们相互进步学习！！！
+![image](https://github.com/chenjingong/DN-ReID/blob/main/img/QQ.jpg)
 
 ### Citation
 If you use the dataset, please cite the following paper:

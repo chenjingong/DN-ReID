@@ -43,7 +43,7 @@ python test.py --mode all --resume 'model_path' --gpu 1 --dataset dn348
   
   - `--gpu`:  which gpu to run.
 
-###QQ群
+### QQ群
 
 QQ群号：721495099，有希望交流的朋友可以加QQ群，我们相互进步学习！！！
 
